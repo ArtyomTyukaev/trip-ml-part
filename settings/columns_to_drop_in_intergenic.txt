@@ -1,0 +1,12 @@
+MANElength
+MANE_intron_length
+DistToTSS
+DistToTES
+RelPos
+DistToIntron5
+DistToIntron3
+RelIntronPos
+MANE_all
+MANE_exonic
+MANE_all_exp.norm.log10
+NMD_expected
